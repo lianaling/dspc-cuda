@@ -9,7 +9,8 @@ C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(160): warning C4
 C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(298): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(369): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(292): warning C4715: 'SumWithCuda': not all control paths return a value
 C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(361): warning C4715: 'SumWithCuda': not all control paths return a value
+C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(292): warning C4715: 'SumWithCuda': not all control paths return a value
 C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(223): warning C4715: 'SumWithCuda': not all control paths return a value
+C:\Users\liana\Documents\Projects\dspc-cuda\dspc-cuda\kernel.cu(417): warning C4715: 'EndCuda': not all control paths return a value
   dspc-cuda.vcxproj -> C:\Users\liana\Documents\Projects\dspc-cuda\x64\Debug\dspc-cuda.exe
