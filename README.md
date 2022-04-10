@@ -1,7 +1,6 @@
 # CUDA Parallelisation
 
 Following a formulate for multivariate linear regression that takes in two variables only.
-
 ## Limitations
 
 - Reads maximum of 110k lines of data before throwing errors as shown below:
